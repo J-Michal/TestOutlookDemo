@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/TestOutlookDemo/bin/Debug
+/TestOutlookDemo/bin
+/TestOutlookDemo/obj
+/.vs

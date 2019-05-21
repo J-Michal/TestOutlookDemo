@@ -44,6 +44,7 @@
             this.Size = new System.Drawing.Size(350, 350);
             this.FormRegionShowing += new System.EventHandler(this.TestFormRegion_FormRegionShowing);
             this.FormRegionClosed += new System.EventHandler(this.TestFormRegion_FormRegionClosed);
+            this.Load += new System.EventHandler(this.TestFormRegion_Load);
             this.ResumeLayout(false);
 
         }
